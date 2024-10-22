@@ -7,21 +7,18 @@
 
 * When was the company incorporated?
     * Founded in 2017
-    * https://www.earthspecies.org/faq
 
 * Who are the founders of the company?
     * Britt Selvitelle, Katie Zacarian, and Aza Raskin
-    * https://www.earthspecies.org/about-us#team
 * How did the idea for the company (or project) come about?
     * The founders Selvitelle and Raskin met and bonded in 2007. Then, in 2013 Raskin heard an NPR story about human-like vocalizations from the Gelada Monkey. Afterwards, Selvitelle and Razkin took to nature to begin to study bioacoustics. Later, they joined Zacarian to officialy start the project.
 * How is the company funded? How much funding have they received?
     * The company is a 501c3 nonprofit meaning it's funded by donations
-    * https://www.earthspecies.org/faq
+
 ## Business Activities
 
 * What specific problem is the company or project trying to solve?
     * ESP (Earth Science Project) is trying to use the recent NLP (natural language processing) technology to decode non-human language. They've worked with animals such as rhesus macaques, bottlenose dolphins, Egyptian fruit bats, dogs, humpback whales, sperm whales, and elephants.
-    * https://www.earthspecies.org/blog/solving-the-cocktail-party-problem
     * As for specific projects, ESP is focused on creating benchmarks, using AI to automatically discover behavior of animals through large scale tracking operations, training self-supervised foundation models, and establishing semantic generation and communication editing.
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
     * As a nonprofit, ESP doesn't have a traditional customer base, but it does have a variety of stakeholders like conservation organizations, academic organizations, and environmental groups.
@@ -32,7 +29,7 @@
     * So in both cases, ESP utilizes AI to best the competition. 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
     * ESP is using a variety of ML models for its AI purposes using unsupervised, supervised, and self-supervised models. Output of the models is then decoded into classifications and cross-modal associations.
-    * https://cdn.prod.website-files.com/630ea9b1fcc91e6ca07956a2/64d64835900750b4b989714d_science.adg7314.pdf
+
 ## Landscape
 
 * What field is the company in?
@@ -62,3 +59,11 @@
 * Why are these technologies appropriate for your solution?
     * A distributed database would be necessary for collecting the data across a multinational network of devices.
     * Computer vision would be necessary to identify species and their behaviors captured by these devices.
+
+## Sources
+* https://cdn.prod.website-files.com/630ea9b1fcc91e6ca07956a2/64d64835900750b4b989714d_science.adg7314.pdf
+* https://www.earthspecies.org/blog/solving-the-cocktail-party-problem
+* https://www.earthspecies.org/faq
+* https://www.earthspecies.org/about-us#team
+* https://arxiv.org/abs/2210.12300
+* https://www.nature.com/articles/s41598-021-02790-2
