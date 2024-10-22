@@ -19,6 +19,10 @@
 
 * What specific problem is the company or project trying to solve?
     * ESP (Earth Science Project) is trying to use the recent NLP (natural language processing) technology to decode non-human language. They've worked with animals such as rhesus macaques, bottlenose dolphins, Egyptian fruit bats, dogs, humpback whales, sperm whales, and elephants.
+    * Their websites described their goal as the following:
+        >Earth Species Project is a non-profit dedicated to using artificial intelligence to decode non-human communication.
+        We believe that an understanding of non-human languages will transform our relationship with the rest of nature.
+        Along the way, we are building solutions that are supporting real conservation impact today.
     * As for specific projects, ESP is focused on creating benchmarks, using AI to automatically discover behavior of animals through large scale tracking operations, training self-supervised foundation models, and establishing semantic generation and communication editing.
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
     * As a nonprofit, ESP doesn't have a traditional customer base, but it does have a variety of stakeholders like conservation organizations, academic organizations, and environmental groups.
@@ -45,7 +49,6 @@
     * The primary impact of of the Earth Species Project has been an increase conservation efforts and multi-modal communication processing.
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
     * The primary metric used to measure success in the field of bioacoustics is BEANS as previously mentioned. For the two common AI tasks, classification and detection, Beans defines a metric. The classification metric is a measure of accuracy while the detection metric is measure of mean average precision.
-
 * How is your company performing relative to competitors in the same field?
     * ESP is performing well. Unlike Project CETI, ESP studies a diversity of animals and publishes more often.
 ## Recommendations
